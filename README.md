@@ -8,7 +8,7 @@ Arduino Nano
 
 MPU9250/6500/9255 Sensor
 
-USB Cable (Connecting to Dell Precision 5530)
+USB Cable 
 
 Jumper Wires
 
